@@ -22,7 +22,7 @@
                 <span class="app-brand-logo demo">
                 <img src="/intranet-amaro/assets/img/favicon/comunidades.png" alt="Logo" width="36" height="38" />
                 </span>
-                <span class="app-brand-text demo text-heading fw-bold">Grupo Amaro</span>
+                <span class="app-brand-text demo text-heading fw-bold">Grupo Amaro Holiwis</span>
               </a>
             </div>
 
