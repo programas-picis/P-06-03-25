@@ -20,7 +20,7 @@
             <div class="app-brand justify-content-center">
               <a href="index.html" class="app-brand-link gap-2">
                 <span class="app-brand-logo demo">
-                <img src="/intranet_amaro/assets/img/favicon/comunidades.png" alt="Logo" width="36" height="38" />
+                <img src="/intranet-amaro/assets/img/favicon/comunidades.png" alt="Logo" width="36" height="38" />
                 </span>
                 <span class="app-brand-text demo text-heading fw-bold">Grupo Amaro</span>
               </a>
@@ -91,14 +91,14 @@
 
   <!-- Core JS -->
 
-  <script src="/intranet_amaro/assets/vendor/libs/jquery/jquery.js"></script>
+  <script src="/intranet-amaro/assets/vendor/libs/jquery/jquery.js"></script>
 
-  <script src="/intranet_amaro/assets/vendor/libs/popper/popper.js"></script>
-  <script src="/intranet_amaro/assets/vendor/js/bootstrap.js"></script>
+  <script src="/intranet-amaro/assets/vendor/libs/popper/popper.js"></script>
+  <script src="/intranet-amaro/assets/vendor/js/bootstrap.js"></script>
 
-  <script src="/intranet_amaro/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js"></script>
+  <script src="/intranet-amaro/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js"></script>
 
-  <script src="/intranet_amaro/assets/vendor/js/menu.js"></script>
+  <script src="/intranet-amaro/assets/vendor/js/menu.js"></script>
 
   <!-- endbuild -->
 
@@ -106,7 +106,7 @@
 
   <!-- Main JS -->
 
-  <script src="/intranet_amaro/assets/js/main.js"></script>
+  <script src="/intranet-amaro/assets/js/main.js"></script>
 
   <!-- Page JS -->
 

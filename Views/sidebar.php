@@ -3,7 +3,7 @@
             <a href="index.html" class="app-brand-link">
               <span class="app-brand-logo demo">
                 <span class="text-primary">
-                <img src="/intranet_amaro/assets/img/elements/AMARO-LOGO2.png" alt="Logo" width="75" height="60" />
+                <img src="/intranet-amaro/assets/img/elements/AMARO-LOGO2.png" alt="Logo" width="75" height="60" />
                 </span>
               </span>
               <span class="app-brand-text demo menu-text fw-bold ms-2 fs-5">Intranet Amaro</span>
