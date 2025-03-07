@@ -91,14 +91,14 @@
 
   <!-- Core JS -->
 
-  <script src="/Intranet_amaro/assets/vendor/libs/jquery/jquery.js"></script>
+  <script src="/intranet_amaro/assets/vendor/libs/jquery/jquery.js"></script>
 
-  <script src="/Intranet_amaro/assets/vendor/libs/popper/popper.js"></script>
-  <script src="/Intranet_amaro/assets/vendor/js/bootstrap.js"></script>
+  <script src="/intranet_amaro/assets/vendor/libs/popper/popper.js"></script>
+  <script src="/intranet_amaro/assets/vendor/js/bootstrap.js"></script>
 
-  <script src="/Intranet_amaro/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js"></script>
+  <script src="/intranet_amaro/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js"></script>
 
-  <script src="/Intranet_amaro/assets/vendor/js/menu.js"></script>
+  <script src="/intranet_amaro/assets/vendor/js/menu.js"></script>
 
   <!-- endbuild -->
 
@@ -106,7 +106,7 @@
 
   <!-- Main JS -->
 
-  <script src="/Intranet_amaro/assets/js/main.js"></script>
+  <script src="/intranet_amaro/assets/js/main.js"></script>
 
   <!-- Page JS -->
 
