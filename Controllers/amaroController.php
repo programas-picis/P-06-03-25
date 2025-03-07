@@ -11,7 +11,7 @@ class amaroController
 		require_once("Views/header.php");
 		require_once("Views/navbar.php");
 		require_once("Views/sidebar.php");
-		require_once('views/Dashboard.php');
+		require_once('Views/Dashboard.php');
 		require_once('Views/footer.php');
 	}
 
@@ -19,9 +19,9 @@ class amaroController
 	function error()
 	{
 		require_once('Views/header.php');
-		require_once('views/navbar.php');
-		require_once('views/sidebar.php');
-		require_once('views/error.php');
+		require_once('Views/navbar.php');
+		require_once('Views/sidebar.php');
+		require_once('Views/error.php');
 		require_once('Views/footer.php');
 	}
 
@@ -29,7 +29,7 @@ class amaroController
 	function index()
 	{
 		require_once('Views/header.php');
-		require_once('views/login.php');
+		require_once('Views/login.php');
 		// require_once('Views/footer.php');
 	}
 
